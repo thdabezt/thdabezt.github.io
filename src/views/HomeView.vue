@@ -26,8 +26,9 @@ import { computed, ref, watch } from 'vue';
 import type { KanaEntry, KanaEntryWithRoumaji } from '@/types';
 import hiraganaDictionary from '@/assets/data/hiragana.json';
 import katakanaDictionary from '@/assets/data/katakana.json';
-import testDictionary from '@/assets/data/test.json'; //new
-import kanjiDictionary from '@/assets/data/kanji.json'; //new
+import testDictionary from '@/assets/data/1-15.json'; //new
+import kanjiDictionary from '@/assets/data/kkanji1-15.json'; //new
+import onetotenkanji from '@/assets/data/1-10kanji.json'; //new
 import { katakanaMap } from '@/util/katakana-map';
 import { hiraganaMap } from '@/util/hiragana-map';
 import { mapKana } from '@/util/kana';
@@ -44,13 +45,16 @@ const dictionary = computed<KanaEntry[]>(() => {
   if (store.words === 'katakana') {
     return katakanaDictionary;
   }
-  if (store.words === 'test') {
+  if (store.words === 'ktb1-15') {
          return testDictionary;
   }
-  if (store.words === 'kanji') {
+  if (store.words === 'kkj1-15') {
          return kanjiDictionary;
   }
-  return [...hiraganaDictionary, ...katakanaDictionary, ...testDictionary, ...kanjiDictionary];
+  if (store.words === 'kj1-10') {
+         return onetotenkanji;
+  }
+  return [...hiraganaDictionary, ...katakanaDictionary, ...testDictionary, ...kanjiDictionary, ...onetotenkanji];
 });
 
 const allMaps = [...hiraganaMap, ...katakanaMap];
