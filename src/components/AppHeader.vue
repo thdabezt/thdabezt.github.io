@@ -33,9 +33,6 @@ const store = useStore();
 const toggleKana = () => {
   store.showKana = !store.showKana; // Toggle the value in the store
   console.log("showKana:", store.showKana); // Check the value
-  // Reset input value when kana is toggled
-  if (store.words === 'kanji') {
-    store.count = 0; 
-  }
+  
 };
 </script>
