@@ -1,0 +1,4562 @@
+[
+    {
+        "kana": [
+            "わ",
+            "た",
+            "し"
+        ],
+        "translation": "tôi",
+        "kanji": "私"
+    },
+    {
+        "kana": [
+            "あ",
+            "な",
+            "た"
+        ],
+        "translation": "anh/ chị/ ông/ bà,",
+        "kanji": "貴方"
+    },
+    {
+        "kana": [
+            "あ",
+            "の",
+            "ひ",
+            "と"
+        ],
+        "translation": "người kia, người đó",
+        "kanji": "あの人"
+    },
+    {
+        "kana": [
+            "あ",
+            "の",
+            "か",
+            "た"
+        ],
+        "translation": "vị kia (cách nói lịch sự của あのひと)",
+        "kanji": "あの方"
+    },
+    {
+        "kana": [
+            "じ",
+            "ん"
+        ],
+        "translation": "người (nước)~ ví dụ 「アメリカじん」: người Mỹ)",
+        "kanji": "人"
+    },
+    {
+        "kana": [
+            "せ",
+            "ん",
+            "せ",
+            "い"
+        ],
+        "translation": "thầy/ cô",
+        "kanji": "先生"
+    },
+    {
+        "kana": [
+            "きょ",
+            "う",
+            "し"
+        ],
+        "translation": "giáo viên",
+        "kanji": "教師"
+    },
+    {
+        "kana": [
+            "が",
+            "く",
+            "せ",
+            "い"
+        ],
+        "translation": "học sinh, sinh viên",
+        "kanji": "学生"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "しゃ",
+            "い",
+            "ん"
+        ],
+        "translation": "nhân viên công ty",
+        "kanji": "会社員"
+    },
+    {
+        "kana": [
+            "しゃ",
+            "い",
+            "ん"
+        ],
+        "translation": "nhân viên công ty ~ ví dụ「ＩＭＣのしゃいん」",
+        "kanji": "社員"
+    },
+    {
+        "kana": [
+            "ぎ",
+            "ん",
+            "こ",
+            "う",
+            "い",
+            "ん"
+        ],
+        "translation": "nhân viên ngân hàng",
+        "kanji": "銀行員"
+    },
+    {
+        "kana": [
+            "い",
+            "しゃ"
+        ],
+        "translation": "bác sĩ",
+        "kanji": "医者"
+    },
+    {
+        "kana": [
+            "け",
+            "ん",
+            "きゅ",
+            "う",
+            "しゃ"
+        ],
+        "translation": "nhà nghiên cứu",
+        "kanji": "研究者"
+    },
+    {
+        "kana": [
+            "だ",
+            "い",
+            "が",
+            "く"
+        ],
+        "translation": "đại học, trường đại học",
+        "kanji": "大学"
+    },
+    {
+        "kana": [
+            "びょ",
+            "う",
+            "い",
+            "ん"
+        ],
+        "translation": "bệnh viện",
+        "kanji": "病院"
+    },
+    {
+        "kana": [
+            "さ",
+            "い"
+        ],
+        "translation": "―tuổi",
+        "kanji": "歳"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "さ",
+            "い"
+        ],
+        "translation": "mấy tuổi, bao nhiêu tuổi (「おいくつ」là cách nói lịch sự của「なんさい」)",
+        "kanji": "何歳"
+    },
+    {
+        "kana": [
+            "は",
+            "じ",
+            "め",
+            "ま",
+            "し",
+            "て"
+        ],
+        "translation": "Rất hân hạnh được gặp anh/chị",
+        "kanji": "初めまして"
+    },
+    {
+        "kana": [
+            "か",
+            "ら",
+            "き",
+            "ま",
+            "し",
+            "た"
+        ],
+        "translation": "(tôi) đến từ ~.",
+        "kanji": "～から来ました"
+    },
+    {
+        "kana": [
+            "ど",
+            "う",
+            "ぞ",
+            "よ",
+            "ろ",
+            "し",
+            "く"
+        ],
+        "translation": "Rất vui khi được làm quen",
+        "kanji": "どうぞよろしく"
+    },
+    {
+        "kana": [
+            "し",
+            "つ",
+            "れ",
+            "い",
+            "で",
+            "す",
+            "が"
+        ],
+        "translation": "xin lỗi,…",
+        "kanji": "失礼ですが"
+    },
+    {
+        "kana": [
+            "お",
+            "な",
+            "ま",
+            "え",
+            "は"
+        ],
+        "translation": "Tên anh/chị là gì?",
+        "kanji": "お名前は"
+    },
+    {
+        "kana": [
+            "か",
+            "ん",
+            "こ",
+            "く"
+        ],
+        "translation": "Hàn Quốc",
+        "kanji": "韓国"
+    },
+    {
+        "kana": [
+            "ちゅ",
+            "う",
+            "ご",
+            "く"
+        ],
+        "translation": "Trung Quốc",
+        "kanji": "中国"
+    },
+    {
+        "kana": [
+            "に",
+            "ほ",
+            "ん"
+        ],
+        "translation": "Nhật Bản",
+        "kanji": "日本"
+    },
+    {
+        "kana": [
+            "ほ",
+            "ん"
+        ],
+        "translation": "sách",
+        "kanji": "本"
+    },
+    {
+        "kana": [
+            "じ",
+            "しょ"
+        ],
+        "translation": "từ điển",
+        "kanji": "辞書"
+    },
+    {
+        "kana": [
+            "ざ",
+            "っし"
+        ],
+        "translation": "tạp chí",
+        "kanji": "雑誌"
+    },
+    {
+        "kana": [
+            "し",
+            "ん",
+            "ぶ",
+            "ん"
+        ],
+        "translation": "báo",
+        "kanji": "新聞"
+    },
+    {
+        "kana": [
+            "て",
+            "ちょ",
+            "う"
+        ],
+        "translation": "sổ tay",
+        "kanji": "手帳"
+    },
+    {
+        "kana": [
+            "め",
+            "い",
+            "し"
+        ],
+        "translation": "danh thiếp",
+        "kanji": "名刺"
+    },
+    {
+        "kana": [
+            "え",
+            "ん",
+            "ぴ",
+            "つ"
+        ],
+        "translation": "bút chì",
+        "kanji": "鉛筆"
+    },
+    {
+        "kana": [
+            "と",
+            "け",
+            "い"
+        ],
+        "translation": "đồng hồ",
+        "kanji": "時計"
+    },
+    {
+        "kana": [
+            "か",
+            "さ"
+        ],
+        "translation": "ô, dù",
+        "kanji": "傘"
+    },
+    {
+        "kana": [
+            "く",
+            "る",
+            "ま"
+        ],
+        "translation": "ô tô, xe hơi",
+        "kanji": "車"
+    },
+    {
+        "kana": [
+            "つ",
+            "く",
+            "え"
+        ],
+        "translation": "cái bàn",
+        "kanji": "机"
+    },
+    {
+        "kana": [
+            "お",
+            "み",
+            "や",
+            "げ"
+        ],
+        "translation": "quà( mua khi đi xa về hoặc mang đi thăm nhà người nào đó)",
+        "kanji": "[お]土産"
+    },
+    {
+        "kana": [
+            "え",
+            "い",
+            "ご"
+        ],
+        "translation": "tiếng Anh",
+        "kanji": "英語"
+    },
+    {
+        "kana": [
+            "に",
+            "ほ",
+            "ん",
+            "ご"
+        ],
+        "translation": "tiếng Nhật",
+        "kanji": "日本語"
+    },
+    {
+        "kana": [
+            "な",
+            "に"
+        ],
+        "translation": "cái gì",
+        "kanji": "何"
+    },
+    {
+        "kana": [
+            "ち",
+            "が",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "Không phải, không đúng, sai rồi",
+        "kanji": "違います"
+    },
+    {
+        "kana": [
+            "こ",
+            "れ",
+            "か",
+            "ら",
+            "お",
+            "せ",
+            "わ",
+            "に",
+            "な",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "Từ nay tôi rất mong sự giúp đỡ của anh chị",
+        "kanji": "これからお世話になります"
+    },
+    {
+        "kana": [
+            "きょ",
+            "う",
+            "し",
+            "つ"
+        ],
+        "translation": "lớp học, phòng học",
+        "kanji": "教室"
+    },
+    {
+        "kana": [
+            "しょ",
+            "く",
+            "ど",
+            "う"
+        ],
+        "translation": "nhà ăn",
+        "kanji": "食堂"
+    },
+    {
+        "kana": [
+            "じ",
+            "む",
+            "しょ"
+        ],
+        "translation": "văn phòng",
+        "kanji": "事務所"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "ぎ",
+            "し",
+            "つ"
+        ],
+        "translation": "phòng họp",
+        "kanji": "会議室"
+    },
+    {
+        "kana": [
+            "う",
+            "け",
+            "つ",
+            "け"
+        ],
+        "translation": "bộ phận tiếp tân, phòng thường trực",
+        "kanji": "受付"
+    },
+    {
+        "kana": [
+            "へ",
+            "や"
+        ],
+        "translation": "căn phòng",
+        "kanji": "部屋"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "だ",
+            "ん"
+        ],
+        "translation": "cầu thang",
+        "kanji": "階段"
+    },
+    {
+        "kana": [
+            "じ",
+            "ど",
+            "う",
+            "は",
+            "ん",
+            "ば",
+            "い",
+            "き"
+        ],
+        "translation": "máy bán hàng tự động",
+        "kanji": "自動販売機"
+    },
+    {
+        "kana": [
+            "で",
+            "ん",
+            "わ"
+        ],
+        "translation": "máy điện thoại, điện thoại",
+        "kanji": "電話"
+    },
+    {
+        "kana": [
+            "お",
+            "く",
+            "に"
+        ],
+        "translation": "đất nước (của anh/chị)",
+        "kanji": "[お]国"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "しゃ"
+        ],
+        "translation": "công ty",
+        "kanji": "会社"
+    },
+    {
+        "kana": [
+            "く",
+            "つ"
+        ],
+        "translation": "giầy",
+        "kanji": "靴"
+    },
+    {
+        "kana": [
+            "う",
+            "り",
+            "ば"
+        ],
+        "translation": "quầy bán (trong một cửa hàng bách hóa)",
+        "kanji": "売り場"
+    },
+    {
+        "kana": [
+            "ち",
+            "か"
+        ],
+        "translation": "tầng hầm, dưới mặt đất",
+        "kanji": "地下"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "が",
+            "い"
+        ],
+        "translation": "tầng mấy",
+        "kanji": "何階"
+    },
+    {
+        "kana": [
+            "え",
+            "ん"
+        ],
+        "translation": "-yên",
+        "kanji": "円"
+    },
+    {
+        "kana": [
+            "ひゃ",
+            "く"
+        ],
+        "translation": "trăm",
+        "kanji": "百"
+    },
+    {
+        "kana": [
+            "せ",
+            "ん"
+        ],
+        "translation": "nghìn",
+        "kanji": "千"
+    },
+    {
+        "kana": [
+            "ま",
+            "ん"
+        ],
+        "translation": "mười nghìn, vạn",
+        "kanji": "万"
+    },
+    {
+        "kana": [
+            "を",
+            "み",
+            "せ",
+            "て",
+            "く",
+            "だ",
+            "さ",
+            "い"
+        ],
+        "translation": "cho tôi xem [~]",
+        "kanji": "を見せてください"
+    },
+    {
+        "kana": [
+            "し",
+            "ん",
+            "お",
+            "お",
+            "さ",
+            "か"
+        ],
+        "translation": "tên một nhà ga ở Osaka",
+        "kanji": "新大阪"
+    },
+    {
+        "kana": [
+            "お",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "dậy, thức dậy",
+        "kanji": "起きます"
+    },
+    {
+        "kana": [
+            "ね",
+            "ま",
+            "す"
+        ],
+        "translation": "ngủ, đi ngủ",
+        "kanji": "寝ます"
+    },
+    {
+        "kana": [
+            "は",
+            "た",
+            "ら",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "làm việc",
+        "kanji": "働きます"
+    },
+    {
+        "kana": [
+            "や",
+            "す",
+            "み",
+            "ま",
+            "す"
+        ],
+        "translation": "nghỉ, nghỉ ngơi",
+        "kanji": "休みます"
+    },
+    {
+        "kana": [
+            "べ",
+            "ん",
+            "きょ",
+            "う",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "học",
+        "kanji": "勉強します"
+    },
+    {
+        "kana": [
+            "お",
+            "わ",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "hết, kết thúc, xong",
+        "kanji": "終わります"
+    },
+    {
+        "kana": [
+            "ぎ",
+            "ん",
+            "こ",
+            "う"
+        ],
+        "translation": "ngân hàng",
+        "kanji": "銀行"
+    },
+    {
+        "kana": [
+            "ゆ",
+            "う",
+            "び",
+            "ん",
+            "きょ",
+            "く"
+        ],
+        "translation": "bưu điện",
+        "kanji": "郵便局"
+    },
+    {
+        "kana": [
+            "と",
+            "しょ",
+            "か",
+            "ん"
+        ],
+        "translation": "thư viện",
+        "kanji": "図書館"
+    },
+    {
+        "kana": [
+            "び",
+            "じゅ",
+            "つ",
+            "か",
+            "ん"
+        ],
+        "translation": "bảo tàng mỹ thuật",
+        "kanji": "美術館"
+    },
+    {
+        "kana": [
+            "い",
+            "ま"
+        ],
+        "translation": "bây giờ",
+        "kanji": "今"
+    },
+    {
+        "kana": [
+            "は",
+            "ん"
+        ],
+        "translation": "rưỡi, nửa",
+        "kanji": "半"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "じ"
+        ],
+        "translation": "mấy giờ",
+        "kanji": "何時"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "ぷ",
+            "ん"
+        ],
+        "translation": "mấy phút",
+        "kanji": "何分"
+    },
+    {
+        "kana": [
+            "ご",
+            "ぜ",
+            "ん"
+        ],
+        "translation": "sáng, trước 12 giờ trưa",
+        "kanji": "午前"
+    },
+    {
+        "kana": [
+            "ご",
+            "ご"
+        ],
+        "translation": "chiều, sau 12 giờ trưa",
+        "kanji": "午後"
+    },
+    {
+        "kana": [
+            "あ",
+            "さ"
+        ],
+        "translation": "buổi sáng, sáng",
+        "kanji": "朝"
+    },
+    {
+        "kana": [
+            "ひ",
+            "る"
+        ],
+        "translation": "buổi trưa, trưa",
+        "kanji": "昼"
+    },
+    {
+        "kana": [
+            "ば",
+            "ん"
+        ],
+        "translation": "buổi tối, tối",
+        "kanji": "晩"
+    },
+    {
+        "kana": [
+            "よ",
+            "る"
+        ],
+        "translation": "buổi tối, tối",
+        "kanji": "夜"
+    },
+    {
+        "kana": [
+            "こ",
+            "ん",
+            "ば",
+            "ん"
+        ],
+        "translation": "tối nay",
+        "kanji": "今晩"
+    },
+    {
+        "kana": [
+            "や",
+            "す",
+            "み"
+        ],
+        "translation": "nghỉ, nghỉ phép, ngày nghỉ",
+        "kanji": "休み"
+    },
+    {
+        "kana": [
+            "ひ",
+            "る",
+            "や",
+            "す",
+            "み"
+        ],
+        "translation": "nghỉ trưa",
+        "kanji": "昼休み"
+    },
+    {
+        "kana": [
+            "し",
+            "け",
+            "ん"
+        ],
+        "translation": "thi, kỳ thi, kiểm tra",
+        "kanji": "試験"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "ぎ"
+        ],
+        "translation": "cuộc họp, hội nghị (～を　します： tổ chức cuộc họp, hội nghị)",
+        "kanji": "会議"
+    },
+    {
+        "kana": [
+            "え",
+            "い",
+            "が"
+        ],
+        "translation": "phim, điện ảnh",
+        "kanji": "映画"
+    },
+    {
+        "kana": [
+            "ま",
+            "い",
+            "あ",
+            "さ"
+        ],
+        "translation": "hàng sáng, mỗi sáng",
+        "kanji": "毎朝"
+    },
+    {
+        "kana": [
+            "ま",
+            "い",
+            "ば",
+            "ん"
+        ],
+        "translation": "hàng tối, mỗi tối",
+        "kanji": "毎晩"
+    },
+    {
+        "kana": [
+            "ま",
+            "い",
+            "に",
+            "ち"
+        ],
+        "translation": "hàng ngày, mỗi ngày",
+        "kanji": "毎日"
+    },
+    {
+        "kana": [
+            "げ",
+            "つ",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ hai",
+        "kanji": "月曜日"
+    },
+    {
+        "kana": [
+            "か",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ ba",
+        "kanji": "火曜日"
+    },
+    {
+        "kana": [
+            "す",
+            "い",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ tư",
+        "kanji": "水曜日"
+    },
+    {
+        "kana": [
+            "も",
+            "く",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ năm",
+        "kanji": "木曜日"
+    },
+    {
+        "kana": [
+            "き",
+            "ん",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ sáu",
+        "kanji": "金曜日"
+    },
+    {
+        "kana": [
+            "ど",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ bảy",
+        "kanji": "土曜日"
+    },
+    {
+        "kana": [
+            "に",
+            "ち",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "chủ nhật",
+        "kanji": "日曜日"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "よ",
+            "う",
+            "び"
+        ],
+        "translation": "thứ mấy",
+        "kanji": "何曜日"
+    },
+    {
+        "kana": [
+            "た",
+            "い",
+            "へ",
+            "ん",
+            "で",
+            "す",
+            "ね"
+        ],
+        "translation": "Anh/chị vất vả quá.",
+        "kanji": "大変ですね"
+    },
+    {
+        "kana": [
+            "ば",
+            "ん",
+            "ご",
+            "う"
+        ],
+        "translation": "số (số điện thoại, số phòng)",
+        "kanji": "番号"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "ば",
+            "ん"
+        ],
+        "translation": "số bao nhiêu, số mấy",
+        "kanji": "何番"
+    },
+    {
+        "kana": [
+            "ア",
+            "ッ",
+            "プ",
+            "ル",
+            "ぎ",
+            "ん",
+            "こ",
+            "う"
+        ],
+        "translation": "ngân hàng Apple (giả định)",
+        "kanji": "アップル銀行"
+    },
+    {
+        "kana": [
+            "み",
+            "ど",
+            "り",
+            "と",
+            "しょ",
+            "か",
+            "ん"
+        ],
+        "translation": "thư viện Midori (giả định)",
+        "kanji": "みどり図書館"
+    },
+    {
+        "kana": [
+            "や",
+            "ま",
+            "と",
+            "び",
+            "じゅ",
+            "つ",
+            "か",
+            "ん"
+        ],
+        "translation": "bảo tàng mỹ thuật Yamato (giả định)",
+        "kanji": "やまと美術館"
+    },
+    {
+        "kana": [
+            "い",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "đi",
+        "kanji": "行きます"
+    },
+    {
+        "kana": [
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "đến",
+        "kanji": "来ます"
+    },
+    {
+        "kana": [
+            "か",
+            "え",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "về",
+        "kanji": "帰ります"
+    },
+    {
+        "kana": [
+            "が",
+            "っこ",
+            "う"
+        ],
+        "translation": "trường học",
+        "kanji": "学校"
+    },
+    {
+        "kana": [
+            "え",
+            "き"
+        ],
+        "translation": "ga, nhà ga",
+        "kanji": "駅"
+    },
+    {
+        "kana": [
+            "ひ",
+            "こ",
+            "う",
+            "き"
+        ],
+        "translation": "máy bay",
+        "kanji": "飛行機"
+    },
+    {
+        "kana": [
+            "ふ",
+            "ね"
+        ],
+        "translation": "thuyền, tàu thủy",
+        "kanji": "船"
+    },
+    {
+        "kana": [
+            "で",
+            "ん",
+            "しゃ"
+        ],
+        "translation": "tàu điện",
+        "kanji": "電車"
+    },
+    {
+        "kana": [
+            "ち",
+            "か",
+            "て",
+            "つ"
+        ],
+        "translation": "tàu điện ngầm",
+        "kanji": "地下鉄"
+    },
+    {
+        "kana": [
+            "し",
+            "ん",
+            "か",
+            "ん",
+            "せ",
+            "ん"
+        ],
+        "translation": "tàu Shinkansen (tàu điện siêu tốc của Nhật)",
+        "kanji": "新幹線"
+    },
+    {
+        "kana": [
+            "じ",
+            "て",
+            "ん",
+            "しゃ"
+        ],
+        "translation": "xe đạp",
+        "kanji": "自転車"
+    },
+    {
+        "kana": [
+            "あ",
+            "る",
+            "い",
+            "て"
+        ],
+        "translation": "đi bộ",
+        "kanji": "歩いて"
+    },
+    {
+        "kana": [
+            "ひ",
+            "と"
+        ],
+        "translation": "người",
+        "kanji": "人"
+    },
+    {
+        "kana": [
+            "と",
+            "も",
+            "だ",
+            "ち"
+        ],
+        "translation": "bạn, bạn bè",
+        "kanji": "友達"
+    },
+    {
+        "kana": [
+            "か",
+            "れ"
+        ],
+        "translation": "anh ấy, bạn trai",
+        "kanji": "彼"
+    },
+    {
+        "kana": [
+            "か",
+            "の",
+            "じょ"
+        ],
+        "translation": "chị ấy, bạn gái",
+        "kanji": "彼女"
+    },
+    {
+        "kana": [
+            "か",
+            "ぞ",
+            "く"
+        ],
+        "translation": "gia đình",
+        "kanji": "家族"
+    },
+    {
+        "kana": [
+            "ひ",
+            "と",
+            "り",
+            "で"
+        ],
+        "translation": "một mình",
+        "kanji": "一人で"
+    },
+    {
+        "kana": [
+            "せ",
+            "ん",
+            "しゅ",
+            "う"
+        ],
+        "translation": "tuần trước",
+        "kanji": "先週"
+    },
+    {
+        "kana": [
+            "こ",
+            "ん",
+            "しゅ",
+            "う"
+        ],
+        "translation": "tuần này",
+        "kanji": "今週"
+    },
+    {
+        "kana": [
+            "ら",
+            "い",
+            "しゅ",
+            "う"
+        ],
+        "translation": "tuần sau",
+        "kanji": "来週"
+    },
+    {
+        "kana": [
+            "せ",
+            "ん",
+            "げ",
+            "つ"
+        ],
+        "translation": "tháng trước",
+        "kanji": "先月"
+    },
+    {
+        "kana": [
+            "こ",
+            "ん",
+            "げ",
+            "つ"
+        ],
+        "translation": "tháng này",
+        "kanji": "今月"
+    },
+    {
+        "kana": [
+            "ら",
+            "い",
+            "げ",
+            "つ"
+        ],
+        "translation": "tháng sau",
+        "kanji": "来月"
+    },
+    {
+        "kana": [
+            "きょ",
+            "ね",
+            "ん"
+        ],
+        "translation": "năm ngoái",
+        "kanji": "去年"
+    },
+    {
+        "kana": [
+            "ら",
+            "い",
+            "ね",
+            "ん"
+        ],
+        "translation": "năm sau",
+        "kanji": "来年"
+    },
+    {
+        "kana": [
+            "ー",
+            "ね",
+            "ん"
+        ],
+        "translation": "năm - //initial",
+        "kanji": "ー年"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "ね",
+            "ん"
+        ],
+        "translation": "mấy năm",
+        "kanji": "何年"
+    },
+    {
+        "kana": [
+            "ー",
+            "が",
+            "つ"
+        ],
+        "translation": "tháng - //initial",
+        "kanji": "ー月"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "が",
+            "つ"
+        ],
+        "translation": "tháng mấy",
+        "kanji": "何月"
+    },
+    {
+        "kana": [
+            "つ",
+            "い",
+            "た",
+            "ち"
+        ],
+        "translation": "ngày mồng 1",
+        "kanji": "１日"
+    },
+    {
+        "kana": [
+            "ふ",
+            "つ",
+            "か"
+        ],
+        "translation": "ngày mồng 2, 2 ngày",
+        "kanji": "２日"
+    },
+    {
+        "kana": [
+            "み",
+            "っか"
+        ],
+        "translation": "ngày mồng 3, 3 ngày",
+        "kanji": "３日"
+    },
+    {
+        "kana": [
+            "よ",
+            "っか"
+        ],
+        "translation": "ngày mồng 4, 4 ngày",
+        "kanji": "４日"
+    },
+    {
+        "kana": [
+            "い",
+            "つ",
+            "か"
+        ],
+        "translation": "ngày mồng 5, 5 ngày",
+        "kanji": "５日"
+    },
+    {
+        "kana": [
+            "む",
+            "い",
+            "か"
+        ],
+        "translation": "ngày mồng 6, 6 ngày",
+        "kanji": "６日"
+    },
+    {
+        "kana": [
+            "な",
+            "の",
+            "か"
+        ],
+        "translation": "ngày mồng 7, 7 ngày",
+        "kanji": "７日"
+    },
+    {
+        "kana": [
+            "よ",
+            "う",
+            "か"
+        ],
+        "translation": "ngày mồng 8, 8 ngày",
+        "kanji": "８日"
+    },
+    {
+        "kana": [
+            "こ",
+            "こ",
+            "の",
+            "か"
+        ],
+        "translation": "ngày mồng 9, 9 ngày",
+        "kanji": "９日"
+    },
+    {
+        "kana": [
+            "と",
+            "お",
+            "か"
+        ],
+        "translation": "ngày mồng 10, 10 ngày",
+        "kanji": "１０日"
+    },
+    {
+        "kana": [
+            "じゅ",
+            "う",
+            "よ",
+            "っか"
+        ],
+        "translation": "ngày 14, 14 ngày",
+        "kanji": "１４日"
+    },
+    {
+        "kana": [
+            "は",
+            "つ",
+            "か"
+        ],
+        "translation": "ngày 20, 20 ngày",
+        "kanji": "２０日"
+    },
+    {
+        "kana": [
+            "に",
+            "じゅ",
+            "う",
+            "よ",
+            "っか"
+        ],
+        "translation": "ngày 24, 24 ngày",
+        "kanji": "２４日"
+    },
+    {
+        "kana": [
+            "な",
+            "ん",
+            "に",
+            "ち"
+        ],
+        "translation": "ngày mấy, ngày bao nhiêu, mấy ngày, bao nhiêu ngày",
+        "kanji": "何日"
+    },
+    {
+        "kana": [
+            "た",
+            "ん",
+            "じょ",
+            "う",
+            "び"
+        ],
+        "translation": "sinh nhật",
+        "kanji": "誕生日"
+    },
+    {
+        "kana": [
+            "つ",
+            "ぎ",
+            "の"
+        ],
+        "translation": "tiếp theo",
+        "kanji": "次の"
+    },
+    {
+        "kana": [
+            "ふ",
+            "つ",
+            "う"
+        ],
+        "translation": "tàu thường (dừng cả ở các ga lẻ)",
+        "kanji": "普通"
+    },
+    {
+        "kana": [
+            "きゅ",
+            "う",
+            "こ",
+            "う"
+        ],
+        "translation": "tàu tốc hành",
+        "kanji": "急行"
+    },
+    {
+        "kana": [
+            "と",
+            "っきゅ",
+            "う"
+        ],
+        "translation": "tàu tốc hành đặc biệt",
+        "kanji": "特急"
+    },
+    {
+        "kana": [
+            "こ",
+            "う",
+            "し",
+            "え",
+            "ん"
+        ],
+        "translation": "tên một khu phố ở Osaka",
+        "kanji": "甲子園"
+    },
+    {
+        "kana": [
+            "お",
+            "お",
+            "さ",
+            "か",
+            "じょ",
+            "う"
+        ],
+        "translation": "Lâu đài Osaka, một lâu đài nổi tiếng ở Osaka",
+        "kanji": "大阪城"
+    },
+    {
+        "kana": [
+            "た",
+            "べ",
+            "ま",
+            "す"
+        ],
+        "translation": "ăn",
+        "kanji": "食べます"
+    },
+    {
+        "kana": [
+            "の",
+            "み",
+            "ま",
+            "す"
+        ],
+        "translation": "uống",
+        "kanji": "飲みます"
+    },
+    {
+        "kana": [
+            "す",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "hút (thuốc lá)",
+        "kanji": "吸います"
+    },
+    {
+        "kana": [
+            "み",
+            "ま",
+            "す"
+        ],
+        "translation": "xem, nhìn, trông",
+        "kanji": "見ます"
+    },
+    {
+        "kana": [
+            "き",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "nghe",
+        "kanji": "聞きます"
+    },
+    {
+        "kana": [
+            "よ",
+            "み",
+            "ま",
+            "す"
+        ],
+        "translation": "đọc",
+        "kanji": "読みます"
+    },
+    {
+        "kana": [
+            "か",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "viết, vẽ",
+        "kanji": "書きます"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "mua",
+        "kanji": "買います"
+    },
+    {
+        "kana": [
+            "と",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "chụp (ảnh)",
+        "kanji": "撮ります"
+    },
+    {
+        "kana": [
+            "あ",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "gặp (bạn)",
+        "kanji": "会います"
+    },
+    {
+        "kana": [
+            "あ",
+            "さ",
+            "ご",
+            "は",
+            "ん"
+        ],
+        "translation": "cơm sáng",
+        "kanji": "朝ごはん"
+    },
+    {
+        "kana": [
+            "ひ",
+            "る",
+            "ご",
+            "は",
+            "ん"
+        ],
+        "translation": "cơm trưa",
+        "kanji": "昼ごはん"
+    },
+    {
+        "kana": [
+            "ば",
+            "ん",
+            "ご",
+            "は",
+            "ん"
+        ],
+        "translation": "cơm tối",
+        "kanji": "晩ごはん"
+    },
+    {
+        "kana": [
+            "た",
+            "ま",
+            "ご"
+        ],
+        "translation": "trứng",
+        "kanji": "卵"
+    },
+    {
+        "kana": [
+            "に",
+            "く"
+        ],
+        "translation": "thịt",
+        "kanji": "肉"
+    },
+    {
+        "kana": [
+            "さ",
+            "か",
+            "な"
+        ],
+        "translation": "cá",
+        "kanji": "魚"
+    },
+    {
+        "kana": [
+            "や",
+            "さ",
+            "い"
+        ],
+        "translation": "rau",
+        "kanji": "野菜"
+    },
+    {
+        "kana": [
+            "く",
+            "だ",
+            "も",
+            "の"
+        ],
+        "translation": "hoa quả, trái cây",
+        "kanji": "果物"
+    },
+    {
+        "kana": [
+            "み",
+            "ず"
+        ],
+        "translation": "nước",
+        "kanji": "水"
+    },
+    {
+        "kana": [
+            "お",
+            "ちゃ"
+        ],
+        "translation": "trà (nói chung)",
+        "kanji": "お茶"
+    },
+    {
+        "kana": [
+            "こ",
+            "う",
+            "ちゃ"
+        ],
+        "translation": "trà đen",
+        "kanji": "紅茶"
+    },
+    {
+        "kana": [
+            "ぎゅ",
+            "う",
+            "にゅ",
+            "う"
+        ],
+        "translation": "sữa bò (sữa)",
+        "kanji": "牛乳"
+    },
+    {
+        "kana": [
+            "お",
+            "さ",
+            "け"
+        ],
+        "translation": "rượu, rượu sake",
+        "kanji": "[お]酒"
+    },
+    {
+        "kana": [
+            "て",
+            "が",
+            "み"
+        ],
+        "translation": "thư",
+        "kanji": "手紙"
+    },
+    {
+        "kana": [
+            "しゃ",
+            "し",
+            "ん"
+        ],
+        "translation": "ảnh",
+        "kanji": "写真"
+    },
+    {
+        "kana": [
+            "み",
+            "せ"
+        ],
+        "translation": "cửa hàng, tiệm",
+        "kanji": "店"
+    },
+    {
+        "kana": [
+            "に",
+            "わ"
+        ],
+        "translation": "vườn",
+        "kanji": "庭"
+    },
+    {
+        "kana": [
+            "しゅ",
+            "く",
+            "だ",
+            "い"
+        ],
+        "translation": "bài tập về nhà (～をします: làm bài tập)",
+        "kanji": "宿題"
+    },
+    {
+        "kana": [
+            "お",
+            "は",
+            "な",
+            "み"
+        ],
+        "translation": "việc ngắm hoa anh đào (～をします: ngắm hoa anh đào)",
+        "kanji": "[お]花見"
+    },
+    {
+        "kana": [
+            "な",
+            "に"
+        ],
+        "translation": "cái gì, gì",
+        "kanji": "何"
+    },
+    {
+        "kana": [
+            "と",
+            "き",
+            "ど",
+            "き"
+        ],
+        "translation": "thỉnh thoảng",
+        "kanji": "時々"
+    },
+    {
+        "kana": [
+            "お",
+            "お",
+            "さ",
+            "か",
+            "デ",
+            "パー",
+            "ト"
+        ],
+        "translation": "bách hóa Osaka (giả định)",
+        "kanji": "大阪デパート"
+    },
+    {
+        "kana": [
+            "フ",
+            "ラ",
+            "ン",
+            "ス",
+            "や"
+        ],
+        "translation": "tên siêu thị (giả định)",
+        "kanji": "フランス屋"
+    },
+    {
+        "kana": [
+            "ま",
+            "い",
+            "に",
+            "ち",
+            "や"
+        ],
+        "translation": "tên siêu thị (giả định)",
+        "kanji": "毎日屋"
+    },
+    {
+        "kana": [
+            "き",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "cắt",
+        "kanji": "切ります"
+    },
+    {
+        "kana": [
+            "お",
+            "く",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "gửi",
+        "kanji": "送ります"
+    },
+    {
+        "kana": [
+            "か",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "cho mượn, cho vay",
+        "kanji": "貸します"
+    },
+    {
+        "kana": [
+            "か",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "mượn, vay",
+        "kanji": "借ります"
+    },
+    {
+        "kana": [
+            "お",
+            "し",
+            "え",
+            "ま",
+            "す"
+        ],
+        "translation": "dạy",
+        "kanji": "教えます"
+    },
+    {
+        "kana": [
+            "な",
+            "ら",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "học, tập",
+        "kanji": "習います"
+    },
+    {
+        "kana": [
+            "て"
+        ],
+        "translation": "tay",
+        "kanji": "手"
+    },
+    {
+        "kana": [
+            "ね",
+            "ん",
+            "が",
+            "じょ",
+            "う"
+        ],
+        "translation": "thiệp mừng năm mới",
+        "kanji": "年賀状"
+    },
+    {
+        "kana": [
+            "か",
+            "み"
+        ],
+        "translation": "giấy",
+        "kanji": "紙"
+    },
+    {
+        "kana": [
+            "は",
+            "な"
+        ],
+        "translation": "hoa",
+        "kanji": "花"
+    },
+    {
+        "kana": [
+            "に",
+            "も",
+            "つ"
+        ],
+        "translation": "đồ đạc, hành lý",
+        "kanji": "荷物"
+    },
+    {
+        "kana": [
+            "お",
+            "か",
+            "ね"
+        ],
+        "translation": "tiền",
+        "kanji": "お金"
+    },
+    {
+        "kana": [
+            "き",
+            "っぷ"
+        ],
+        "translation": "vé",
+        "kanji": "切符"
+    },
+    {
+        "kana": [
+            "ち",
+            "ち"
+        ],
+        "translation": "bố (dùng khi nói về bố mình)",
+        "kanji": "父"
+    },
+    {
+        "kana": [
+            "は",
+            "は"
+        ],
+        "translation": "mẹ (dùng khi nói về mẹ mình)",
+        "kanji": "母"
+    },
+    {
+        "kana": [
+            "お",
+            "と",
+            "う",
+            "さ",
+            "ん"
+        ],
+        "translation": "bố (dùng khi nói về bố người khác và dùng khi xưng hô với bố mình)",
+        "kanji": "お父さん"
+    },
+    {
+        "kana": [
+            "お",
+            "か",
+            "あ",
+            "さ",
+            "ん"
+        ],
+        "translation": "mẹ (dùng khi nói về mẹ người khác và dùng khi xưng hô với mẹ mình)",
+        "kanji": "お母さん"
+    },
+    {
+        "kana": [
+            "し",
+            "ず",
+            "か"
+        ],
+        "translation": "yên tĩnh",
+        "kanji": "静か"
+    },
+    {
+        "kana": [
+            "ゆ",
+            "う",
+            "め",
+            "い"
+        ],
+        "translation": "nổi tiếng",
+        "kanji": "有名"
+    },
+    {
+        "kana": [
+            "し",
+            "ん",
+            "せ",
+            "つ"
+        ],
+        "translation": "tốt bụng, thân thiện",
+        "kanji": "親切"
+    },
+    {
+        "kana": [
+            "げ",
+            "ん",
+            "き"
+        ],
+        "translation": "khỏe",
+        "kanji": "元気"
+    },
+    {
+        "kana": [
+            "ひ",
+            "ま"
+        ],
+        "translation": "rảnh rỗi",
+        "kanji": "暇"
+    },
+    {
+        "kana": [
+            "べ",
+            "ん",
+            "り"
+        ],
+        "translation": "tiện lợi",
+        "kanji": "便利"
+    },
+    {
+        "kana": [
+            "お",
+            "お",
+            "き",
+            "い"
+        ],
+        "translation": "lớn, to",
+        "kanji": "大きい"
+    },
+    {
+        "kana": [
+            "ち",
+            "い",
+            "さ",
+            "い"
+        ],
+        "translation": "bé, nhỏ",
+        "kanji": "小さい"
+    },
+    {
+        "kana": [
+            "あ",
+            "た",
+            "ら",
+            "し",
+            "い"
+        ],
+        "translation": "mới",
+        "kanji": "新しい"
+    },
+    {
+        "kana": [
+            "ふ",
+            "る",
+            "い"
+        ],
+        "translation": "cũ",
+        "kanji": "古い"
+    },
+    {
+        "kana": [
+            "わ",
+            "る",
+            "い"
+        ],
+        "translation": "xấu",
+        "kanji": "悪い"
+    },
+    {
+        "kana": [
+            "あ",
+            "つ",
+            "い"
+        ],
+        "translation": "nóng",
+        "kanji": "暑い"
+    },
+    {
+        "kana": [
+            "あ",
+            "つ",
+            "い"
+        ],
+        "translation": "nóng",
+        "kanji": "熱い"
+    },
+    {
+        "kana": [
+            "さ",
+            "む",
+            "い"
+        ],
+        "translation": "lạnh, rét (dùng cho thời tiết)",
+        "kanji": "寒い"
+    },
+    {
+        "kana": [
+            "つ",
+            "め",
+            "た",
+            "い"
+        ],
+        "translation": "lạnh, buốt (dùng cho cảm giác)",
+        "kanji": "冷たい"
+    },
+    {
+        "kana": [
+            "む",
+            "ず",
+            "か",
+            "し",
+            "い"
+        ],
+        "translation": "khó",
+        "kanji": "難しい"
+    },
+    {
+        "kana": [
+            "や",
+            "さ",
+            "し",
+            "い"
+        ],
+        "translation": "dễ",
+        "kanji": "易しい"
+    },
+    {
+        "kana": [
+            "た",
+            "か",
+            "い"
+        ],
+        "translation": "đắt, cao",
+        "kanji": "高い"
+    },
+    {
+        "kana": [
+            "や",
+            "す",
+            "い"
+        ],
+        "translation": "rẻ",
+        "kanji": "安い"
+    },
+    {
+        "kana": [
+            "ひ",
+            "く",
+            "い"
+        ],
+        "translation": "thấp",
+        "kanji": "低い"
+    },
+    {
+        "kana": [
+            "い",
+            "そ",
+            "が",
+            "し",
+            "い"
+        ],
+        "translation": "bận",
+        "kanji": "忙しい"
+    },
+    {
+        "kana": [
+            "た",
+            "の",
+            "し",
+            "い"
+        ],
+        "translation": "vui",
+        "kanji": "楽しい"
+    },
+    {
+        "kana": [
+            "し",
+            "ろ",
+            "い"
+        ],
+        "translation": "trắng",
+        "kanji": "白い"
+    },
+    {
+        "kana": [
+            "く",
+            "ろ",
+            "い"
+        ],
+        "translation": "đen",
+        "kanji": "黒い"
+    },
+    {
+        "kana": [
+            "あ",
+            "か",
+            "い"
+        ],
+        "translation": "đỏ",
+        "kanji": "赤い"
+    },
+    {
+        "kana": [
+            "あ",
+            "お",
+            "い"
+        ],
+        "translation": "xanh da trời",
+        "kanji": "青い"
+    },
+    {
+        "kana": [
+            "さ",
+            "く",
+            "ら"
+        ],
+        "translation": "anh đào (hoa, cây)",
+        "kanji": "桜"
+    },
+    {
+        "kana": [
+            "や",
+            "ま"
+        ],
+        "translation": "núi",
+        "kanji": "山"
+    },
+    {
+        "kana": [
+            "ま",
+            "ち"
+        ],
+        "translation": "thị trấn, thị xã, thành phố",
+        "kanji": "町"
+    },
+    {
+        "kana": [
+            "た",
+            "べ",
+            "も",
+            "の"
+        ],
+        "translation": "đồ ăn",
+        "kanji": "食べ物"
+    },
+    {
+        "kana": [
+            "と",
+            "こ",
+            "ろ"
+        ],
+        "translation": "nơi, chỗ",
+        "kanji": "所"
+    },
+    {
+        "kana": [
+            "りょ",
+            "う"
+        ],
+        "translation": "kí túc xá",
+        "kanji": "寮"
+    },
+    {
+        "kana": [
+            "せ",
+            "い",
+            "か",
+            "つ"
+        ],
+        "translation": "cuộc sống, sinh hoạt",
+        "kanji": "生活"
+    },
+    {
+        "kana": [
+            "お",
+            "し",
+            "ご",
+            "と"
+        ],
+        "translation": "công việc (～をします：làm việc)",
+        "kanji": "[お]仕事"
+    },
+    {
+        "kana": [
+            "しゃ",
+            "ん",
+            "は",
+            "い"
+        ],
+        "translation": "Thượng Hải",
+        "kanji": "上海"
+    },
+    {
+        "kana": [
+            "き",
+            "ん",
+            "か",
+            "く",
+            "じ"
+        ],
+        "translation": "Chùa Kinkaku-ji (chùa vàng)",
+        "kanji": "金閣寺"
+    },
+    {
+        "kana": [
+            "な",
+            "ら",
+            "こ",
+            "う",
+            "え",
+            "ん"
+        ],
+        "translation": "Công viên Nara",
+        "kanji": "奈良公園"
+    },
+    {
+        "kana": [
+            "ふ",
+            "じ",
+            "さ",
+            "ん"
+        ],
+        "translation": "Núi Phú Sĩ (ngọn núi cao nhất Nhật Bản)",
+        "kanji": "富士山"
+    },
+    {
+        "kana": [
+            "し",
+            "ち",
+            "に",
+            "ん",
+            "の",
+            "さ",
+            "む",
+            "ら",
+            "い"
+        ],
+        "translation": "bảy chàng võ sĩ Samurai (tên phim)",
+        "kanji": "七人の侍"
+    },
+    {
+        "kana": [
+            "す",
+            "き"
+        ],
+        "translation": "thích",
+        "kanji": "好き"
+    },
+    {
+        "kana": [
+            "き",
+            "ら",
+            "い"
+        ],
+        "translation": "ghét, không thích",
+        "kanji": "嫌い"
+    },
+    {
+        "kana": [
+            "じょ",
+            "う",
+            "ず"
+        ],
+        "translation": "giỏi, khéo",
+        "kanji": "上手"
+    },
+    {
+        "kana": [
+            "へ",
+            "た"
+        ],
+        "translation": "kém",
+        "kanji": "下手"
+    },
+    {
+        "kana": [
+            "の",
+            "み",
+            "も",
+            "の"
+        ],
+        "translation": "đồ uống",
+        "kanji": "飲み物"
+    },
+    {
+        "kana": [
+            "りょ",
+            "う",
+            "り"
+        ],
+        "translation": "món ăn, việc nấu ăn",
+        "kanji": "料理"
+    },
+    {
+        "kana": [
+            "や",
+            "きゅ",
+            "う"
+        ],
+        "translation": "bóng chày (～をします：chơi bóng chày)",
+        "kanji": "野球"
+    },
+    {
+        "kana": [
+            "りょ",
+            "こ",
+            "う"
+        ],
+        "translation": "du lịch, chuyến du lịch",
+        "kanji": "旅行"
+    },
+    {
+        "kana": [
+            "お",
+            "ん",
+            "が",
+            "く"
+        ],
+        "translation": "âm nhạc",
+        "kanji": "音楽"
+    },
+    {
+        "kana": [
+            "う",
+            "た"
+        ],
+        "translation": "bài hát",
+        "kanji": "歌"
+    },
+    {
+        "kana": [
+            "か",
+            "ぶ",
+            "き"
+        ],
+        "translation": "Kabuki (một loại ca kịch truyền thống của Nhật)",
+        "kanji": "歌舞伎"
+    },
+    {
+        "kana": [
+            "え"
+        ],
+        "translation": "tranh, hội họa",
+        "kanji": "絵"
+    },
+    {
+        "kana": [
+            "じ"
+        ],
+        "translation": "chữ",
+        "kanji": "字"
+    },
+    {
+        "kana": [
+            "か",
+            "ん",
+            "じ"
+        ],
+        "translation": "chữ hán",
+        "kanji": "漢字"
+    },
+    {
+        "kana": [
+            "ロー",
+            "マ",
+            "じ"
+        ],
+        "translation": "chữ La Mã",
+        "kanji": "ローマ字"
+    },
+    {
+        "kana": [
+            "こ",
+            "ま",
+            "か",
+            "い",
+            "お",
+            "か",
+            "ね"
+        ],
+        "translation": "tiền lẻ",
+        "kanji": "細かいお金"
+    },
+    {
+        "kana": [
+            "じ",
+            "か",
+            "ん"
+        ],
+        "translation": "thời gian",
+        "kanji": "時間"
+    },
+    {
+        "kana": [
+            "よ",
+            "う",
+            "じ"
+        ],
+        "translation": "việc bận, công chuyện",
+        "kanji": "用事"
+    },
+    {
+        "kana": [
+            "や",
+            "く",
+            "そ",
+            "く"
+        ],
+        "translation": "cuộc hẹn, lời hứa",
+        "kanji": "約束"
+    },
+    {
+        "kana": [
+            "ご",
+            "しゅ",
+            "じ",
+            "ん"
+        ],
+        "translation": "chồng (dùng khi nói về chồng người khác)",
+        "kanji": "ご主人"
+    },
+    {
+        "kana": [
+            "お",
+            "っと"
+        ],
+        "translation": "chồng (dùng khi nói về chồng mình)",
+        "kanji": "夫"
+    },
+    {
+        "kana": [
+            "しゅ",
+            "じ",
+            "ん"
+        ],
+        "translation": "chồng (dùng khi nói về chồng mình)",
+        "kanji": "主人"
+    },
+    {
+        "kana": [
+            "お",
+            "く",
+            "さ",
+            "ん"
+        ],
+        "translation": "vợ (dùng khi nói về vợ người khác)",
+        "kanji": "奥さん"
+    },
+    {
+        "kana": [
+            "つ",
+            "ま"
+        ],
+        "translation": "vợ (dùng khi nói về vợ mình)",
+        "kanji": "妻"
+    },
+    {
+        "kana": [
+            "か",
+            "な",
+            "い"
+        ],
+        "translation": "vợ (dùng khi nói về vợ mình)",
+        "kanji": "家内"
+    },
+    {
+        "kana": [
+            "こ",
+            "ど",
+            "も"
+        ],
+        "translation": "con cái",
+        "kanji": "子ども"
+    },
+    {
+        "kana": [
+            "す",
+            "こ",
+            "し"
+        ],
+        "translation": "ít, một ít",
+        "kanji": "少し"
+    },
+    {
+        "kana": [
+            "ぜ",
+            "ん",
+            "ぜ",
+            "ん"
+        ],
+        "translation": "hoàn toàn ~ không",
+        "kanji": "全然"
+    },
+    {
+        "kana": [
+            "は",
+            "や",
+            "く"
+        ],
+        "translation": "sớm, nhanh",
+        "kanji": "早く, 速く"
+    },
+    {
+        "kana": [
+            "か",
+            "し",
+            "て",
+            "く",
+            "だ",
+            "さ",
+            "い"
+        ],
+        "translation": "Hãy cho tôi mượn.",
+        "kanji": "貸してください"
+    },
+    {
+        "kana": [
+            "ざ",
+            "ん",
+            "ね",
+            "ん",
+            "で",
+            "す",
+            "ね"
+        ],
+        "translation": "Thật đáng tiếc nhỉ./ buồn nhỉ.",
+        "kanji": "残念ですね。"
+    },
+    {
+        "kana": [
+            "ま",
+            "た",
+            "こ",
+            "ん",
+            "ど"
+        ],
+        "translation": "Hẹn Anh/Chị lần sau vậy.",
+        "kanji": "また今度"
+    },
+    {
+        "kana": [
+            "お",
+            "と",
+            "こ",
+            "の",
+            "ひ",
+            "と"
+        ],
+        "translation": "người đàn ông",
+        "kanji": "男の人"
+    },
+    {
+        "kana": [
+            "お",
+            "ん",
+            "な",
+            "の",
+            "ひ",
+            "と"
+        ],
+        "translation": "người đàn bà",
+        "kanji": "女の人"
+    },
+    {
+        "kana": [
+            "お",
+            "と",
+            "こ",
+            "の",
+            "こ"
+        ],
+        "translation": "cậu con trai",
+        "kanji": "男の子"
+    },
+    {
+        "kana": [
+            "お",
+            "ん",
+            "な",
+            "の",
+            "こ"
+        ],
+        "translation": "cô con gái",
+        "kanji": "女の子"
+    },
+    {
+        "kana": [
+            "い",
+            "ぬ"
+        ],
+        "translation": "chó",
+        "kanji": "犬"
+    },
+    {
+        "kana": [
+            "ね",
+            "こ"
+        ],
+        "translation": "mèo",
+        "kanji": "猫"
+    },
+    {
+        "kana": [
+            "ぞ",
+            "う"
+        ],
+        "translation": "voi",
+        "kanji": "象"
+    },
+    {
+        "kana": [
+            "き"
+        ],
+        "translation": "cây, gỗ",
+        "kanji": "木"
+    },
+    {
+        "kana": [
+            "も",
+            "の"
+        ],
+        "translation": "vật, đồ vật",
+        "kanji": "物"
+    },
+    {
+        "kana": [
+            "で",
+            "ん",
+            "ち"
+        ],
+        "translation": "Pin",
+        "kanji": "電池"
+    },
+    {
+        "kana": [
+            "は",
+            "こ"
+        ],
+        "translation": "hộp",
+        "kanji": "箱"
+    },
+    {
+        "kana": [
+            "れ",
+            "い",
+            "ぞ",
+            "う",
+            "こ"
+        ],
+        "translation": "tủ lạnh",
+        "kanji": "冷蔵庫"
+    },
+    {
+        "kana": [
+            "た",
+            "な"
+        ],
+        "translation": "giá sách",
+        "kanji": "棚"
+    },
+    {
+        "kana": [
+            "ま",
+            "ど"
+        ],
+        "translation": "cửa sổ",
+        "kanji": "窓"
+    },
+    {
+        "kana": [
+            "こ",
+            "う",
+            "え",
+            "ん"
+        ],
+        "translation": "công viên",
+        "kanji": "公園"
+    },
+    {
+        "kana": [
+            "き",
+            "っさ",
+            "て",
+            "ん"
+        ],
+        "translation": "quán giải khát, quán cà-phê",
+        "kanji": "喫茶店"
+    },
+    {
+        "kana": [
+            "や"
+        ],
+        "translation": "hiệu ~, cửa hàng",
+        "kanji": "屋"
+    },
+    {
+        "kana": [
+            "の",
+            "り",
+            "ば"
+        ],
+        "translation": "bến xe, điểm lên xuống xe",
+        "kanji": "乗り場"
+    },
+    {
+        "kana": [
+            "け",
+            "ん"
+        ],
+        "translation": "tỉnh",
+        "kanji": "県"
+    },
+    {
+        "kana": [
+            "う",
+            "え"
+        ],
+        "translation": "trên",
+        "kanji": "上"
+    },
+    {
+        "kana": [
+            "し",
+            "た"
+        ],
+        "translation": "dưới",
+        "kanji": "下"
+    },
+    {
+        "kana": [
+            "ま",
+            "え"
+        ],
+        "translation": "trước",
+        "kanji": "前"
+    },
+    {
+        "kana": [
+            "み",
+            "ぎ"
+        ],
+        "translation": "phải",
+        "kanji": "右"
+    },
+    {
+        "kana": [
+            "ひ",
+            "だ",
+            "り"
+        ],
+        "translation": "trái",
+        "kanji": "左"
+    },
+    {
+        "kana": [
+            "な",
+            "か"
+        ],
+        "translation": "trong, giữa",
+        "kanji": "中"
+    },
+    {
+        "kana": [
+            "そ",
+            "と"
+        ],
+        "translation": "ngoài",
+        "kanji": "外"
+    },
+    {
+        "kana": [
+            "と",
+            "な",
+            "り"
+        ],
+        "translation": "bên cạnh",
+        "kanji": "隣"
+    },
+    {
+        "kana": [
+            "ち",
+            "か",
+            "く"
+        ],
+        "translation": "gần",
+        "kanji": "近く"
+    },
+    {
+        "kana": [
+            "あ",
+            "い",
+            "だ"
+        ],
+        "translation": "giữa",
+        "kanji": "間"
+    },
+    {
+        "kana": [
+            "い",
+            "ち",
+            "ば",
+            "ん",
+            "し",
+            "た"
+        ],
+        "translation": "ở dưới cùng",
+        "kanji": "いちばん下"
+    },
+    {
+        "kana": [
+            "と",
+            "う",
+            "きょ",
+            "う",
+            "ディ",
+            "ズ",
+            "ニー",
+            "ラ",
+            "ン",
+            "ド"
+        ],
+        "translation": "Công viên Tokyo Disneyland",
+        "kanji": "東京ディズニーランド"
+    },
+    {
+        "kana": [
+            "や",
+            "す",
+            "み",
+            "ま",
+            "す"
+        ],
+        "translation": "nghỉ [làm việc]",
+        "kanji": "休みます"
+    },
+    {
+        "kana": [
+            "ひ",
+            "と",
+            "つ"
+        ],
+        "translation": "một cái (dùng để đếm đồ vật)",
+        "kanji": "１つ"
+    },
+    {
+        "kana": [
+            "ふ",
+            "た",
+            "つ"
+        ],
+        "translation": "hai cái",
+        "kanji": "２つ"
+    },
+    {
+        "kana": [
+            "み",
+            "っつ"
+        ],
+        "translation": "ba cái",
+        "kanji": "３つ"
+    },
+    {
+        "kana": [
+            "よ",
+            "っつ"
+        ],
+        "translation": "bốn cái",
+        "kanji": "４つ"
+    },
+    {
+        "kana": [
+            "い",
+            "つ",
+            "つ"
+        ],
+        "translation": "năm cái",
+        "kanji": "５つ"
+    },
+    {
+        "kana": [
+            "む",
+            "っつ"
+        ],
+        "translation": "sáu cái",
+        "kanji": "６つ"
+    },
+    {
+        "kana": [
+            "な",
+            "な",
+            "つ"
+        ],
+        "translation": "bảy cái",
+        "kanji": "７つ"
+    },
+    {
+        "kana": [
+            "や",
+            "っつ"
+        ],
+        "translation": "tám cái",
+        "kanji": "８つ"
+    },
+    {
+        "kana": [
+            "こ",
+            "こ",
+            "の",
+            "つ"
+        ],
+        "translation": "chín cái",
+        "kanji": "９つ"
+    },
+    {
+        "kana": [
+            "と",
+            "お"
+        ],
+        "translation": "mười cái",
+        "kanji": "10"
+    },
+    {
+        "kana": [
+            "ひ",
+            "と",
+            "り"
+        ],
+        "translation": "một người",
+        "kanji": "１人"
+    },
+    {
+        "kana": [
+            "ふ",
+            "た",
+            "り"
+        ],
+        "translation": "hai người",
+        "kanji": "２人"
+    },
+    {
+        "kana": [
+            "に",
+            "ん"
+        ],
+        "translation": "- người",
+        "kanji": "－人"
+    },
+    {
+        "kana": [
+            "だ",
+            "い"
+        ],
+        "translation": "- cái (dùng để đếm máy móc, xe cộ v.v.)",
+        "kanji": "－台"
+    },
+    {
+        "kana": [
+            "ま",
+            "い"
+        ],
+        "translation": "tờ, tấm (dùng để đếm những vật mỏng như giấy, con tem v.v.)",
+        "kanji": "－枚"
+    },
+    {
+        "kana": [
+            "か",
+            "い"
+        ],
+        "translation": "- lần",
+        "kanji": "―回"
+    },
+    {
+        "kana": [
+            "き",
+            "って"
+        ],
+        "translation": "tem",
+        "kanji": "切手"
+    },
+    {
+        "kana": [
+            "ふ",
+            "う",
+            "と",
+            "う"
+        ],
+        "translation": "phong bì",
+        "kanji": "封筒"
+    },
+    {
+        "kana": [
+            "りょ",
+            "う",
+            "し",
+            "ん"
+        ],
+        "translation": "bố mẹ",
+        "kanji": "両親"
+    },
+    {
+        "kana": [
+            "きょ",
+            "う",
+            "だ",
+            "い"
+        ],
+        "translation": "anh chị em",
+        "kanji": "兄弟"
+    },
+    {
+        "kana": [
+            "あ",
+            "に"
+        ],
+        "translation": "anh trai",
+        "kanji": "兄"
+    },
+    {
+        "kana": [
+            "お",
+            "に",
+            "い",
+            "さ",
+            "ん"
+        ],
+        "translation": "anh trai (dùng cho người khác)",
+        "kanji": "お兄さん"
+    },
+    {
+        "kana": [
+            "あ",
+            "ね"
+        ],
+        "translation": "chị gái",
+        "kanji": "姉"
+    },
+    {
+        "kana": [
+            "お",
+            "ね",
+            "え",
+            "さ",
+            "ん"
+        ],
+        "translation": "chị gái (dùng cho người khác)",
+        "kanji": "お姉さん"
+    },
+    {
+        "kana": [
+            "お",
+            "と",
+            "う",
+            "と"
+        ],
+        "translation": "em trai",
+        "kanji": "弟"
+    },
+    {
+        "kana": [
+            "お",
+            "と",
+            "う",
+            "と",
+            "さ",
+            "ん"
+        ],
+        "translation": "em trai (dùng cho người khác)",
+        "kanji": "弟さん"
+    },
+    {
+        "kana": [
+            "い",
+            "も",
+            "う",
+            "と"
+        ],
+        "translation": "em gái",
+        "kanji": "妹"
+    },
+    {
+        "kana": [
+            "い",
+            "も",
+            "う",
+            "と",
+            "さ",
+            "ん"
+        ],
+        "translation": "em gái (dùng cho người khác)",
+        "kanji": "妹さん"
+    },
+    {
+        "kana": [
+            "が",
+            "い",
+            "こ",
+            "く"
+        ],
+        "translation": "nước ngoài",
+        "kanji": "外国"
+    },
+    {
+        "kana": [
+            "りゅ",
+            "う",
+            "が",
+            "く",
+            "せ",
+            "い"
+        ],
+        "translation": "lưu học sinh, sinh viên nước ngoài",
+        "kanji": "留学生"
+    },
+    {
+        "kana": [
+            "じ",
+            "か",
+            "ん"
+        ],
+        "translation": "- tiếng",
+        "kanji": "―時間"
+    },
+    {
+        "kana": [
+            "しゅ",
+            "う",
+            "か",
+            "ん"
+        ],
+        "translation": "- tuần",
+        "kanji": "―週間"
+    },
+    {
+        "kana": [
+            "か",
+            "げ",
+            "つ"
+        ],
+        "translation": "- tháng",
+        "kanji": "－か月"
+    },
+    {
+        "kana": [
+            "ね",
+            "ん"
+        ],
+        "translation": "- năm",
+        "kanji": "―年"
+    },
+    {
+        "kana": [
+            "ぜ",
+            "ん",
+            "ぶ",
+            "で"
+        ],
+        "translation": "tổng cộng",
+        "kanji": "全部で"
+    },
+    {
+        "kana": [
+            "い",
+            "い",
+            "お",
+            "て",
+            "ん",
+            "き",
+            "で",
+            "す",
+            "ね"
+        ],
+        "translation": "Trời đẹp nhỉ.",
+        "kanji": "いい[お]天気ですね。"
+    },
+    {
+        "kana": [
+            "お",
+            "で",
+            "か",
+            "け",
+            "で",
+            "す",
+            "か"
+        ],
+        "translation": "Anh/ chị đi ra ngoài đấy à?",
+        "kanji": "お出かけですか。"
+    },
+    {
+        "kana": [
+            "い",
+            "って",
+            "い",
+            "ら",
+            "っしゃ",
+            "い"
+        ],
+        "translation": "Anh/chị đi nhé.",
+        "kanji": "行っていらっしゃい。"
+    },
+    {
+        "kana": [
+            "い",
+            "って",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "Tôi đi đây.",
+        "kanji": "行ってきます。"
+    },
+    {
+        "kana": [
+            "ふ",
+            "な",
+            "び",
+            "ん"
+        ],
+        "translation": "gửi bằng đường biển",
+        "kanji": "船便"
+    },
+    {
+        "kana": [
+            "お",
+            "ね",
+            "が",
+            "い",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "Nhờ anh/chị.",
+        "kanji": "お願いします。"
+    },
+    {
+        "kana": [
+            "か",
+            "ん",
+            "た",
+            "ん"
+        ],
+        "translation": "đơn giản, dễ",
+        "kanji": "簡単"
+    },
+    {
+        "kana": [
+            "ち",
+            "か",
+            "い"
+        ],
+        "translation": "gần",
+        "kanji": "近い"
+    },
+    {
+        "kana": [
+            "と",
+            "お",
+            "い"
+        ],
+        "translation": "xa",
+        "kanji": "遠い"
+    },
+    {
+        "kana": [
+            "は",
+            "や",
+            "い"
+        ],
+        "translation": "nhanh, sớm",
+        "kanji": "速い, 早い"
+    },
+    {
+        "kana": [
+            "お",
+            "そ",
+            "い"
+        ],
+        "translation": "chậm, muộn",
+        "kanji": "遅い"
+    },
+    {
+        "kana": [
+            "お",
+            "お",
+            "い"
+        ],
+        "translation": "nhiều [người]",
+        "kanji": "多い"
+    },
+    {
+        "kana": [
+            "す",
+            "く",
+            "な",
+            "い"
+        ],
+        "translation": "ít [người]",
+        "kanji": "少ない"
+    },
+    {
+        "kana": [
+            "あ",
+            "た",
+            "た",
+            "か",
+            "い"
+        ],
+        "translation": "ấm",
+        "kanji": "温かい"
+    },
+    {
+        "kana": [
+            "あ",
+            "た",
+            "た",
+            "か",
+            "い"
+        ],
+        "translation": "ấm",
+        "kanji": "暖かい"
+    },
+    {
+        "kana": [
+            "す",
+            "ず",
+            "し",
+            "い"
+        ],
+        "translation": "mát",
+        "kanji": "涼しい"
+    },
+    {
+        "kana": [
+            "あ",
+            "ま",
+            "い"
+        ],
+        "translation": "ngọt",
+        "kanji": "甘い"
+    },
+    {
+        "kana": [
+            "か",
+            "ら",
+            "い"
+        ],
+        "translation": "cay",
+        "kanji": "辛い"
+    },
+    {
+        "kana": [
+            "お",
+            "も",
+            "い"
+        ],
+        "translation": "nặng",
+        "kanji": "重い"
+    },
+    {
+        "kana": [
+            "か",
+            "る",
+            "い"
+        ],
+        "translation": "nhẹ",
+        "kanji": "軽い"
+    },
+    {
+        "kana": [
+            "き",
+            "せ",
+            "つ"
+        ],
+        "translation": "mùa",
+        "kanji": "季節"
+    },
+    {
+        "kana": [
+            "は",
+            "る"
+        ],
+        "translation": "mùa xuân",
+        "kanji": "春"
+    },
+    {
+        "kana": [
+            "な",
+            "つ"
+        ],
+        "translation": "mùa hè",
+        "kanji": "夏"
+    },
+    {
+        "kana": [
+            "あ",
+            "き"
+        ],
+        "translation": "mùa thu",
+        "kanji": "秋"
+    },
+    {
+        "kana": [
+            "ふ",
+            "ゆ"
+        ],
+        "translation": "mùa đông",
+        "kanji": "冬"
+    },
+    {
+        "kana": [
+            "て",
+            "ん",
+            "き"
+        ],
+        "translation": "thời tiết",
+        "kanji": "天気"
+    },
+    {
+        "kana": [
+            "あ",
+            "め"
+        ],
+        "translation": "mưa",
+        "kanji": "雨"
+    },
+    {
+        "kana": [
+            "ゆ",
+            "き"
+        ],
+        "translation": "tuyết",
+        "kanji": "雪"
+    },
+    {
+        "kana": [
+            "く",
+            "も",
+            "り"
+        ],
+        "translation": "có mây",
+        "kanji": "曇り"
+    },
+    {
+        "kana": [
+            "く",
+            "う",
+            "こ",
+            "う"
+        ],
+        "translation": "sân bay",
+        "kanji": "空港"
+    },
+    {
+        "kana": [
+            "う",
+            "み"
+        ],
+        "translation": "biển, đại dương",
+        "kanji": "海"
+    },
+    {
+        "kana": [
+            "せ",
+            "か",
+            "い"
+        ],
+        "translation": "thế giới",
+        "kanji": "世界"
+    },
+    {
+        "kana": [
+            "お",
+            "ま",
+            "つ",
+            "り"
+        ],
+        "translation": "lễ hội",
+        "kanji": "[お]祭り"
+    },
+    {
+        "kana": [
+            "す",
+            "き",
+            "や",
+            "き"
+        ],
+        "translation": "Sukiyaki (món thịt bò nấu rau)",
+        "kanji": "すき焼き"
+    },
+    {
+        "kana": [
+            "さ",
+            "し",
+            "み"
+        ],
+        "translation": "Sashimi (món gỏi cá sống)",
+        "kanji": "刺身"
+    },
+    {
+        "kana": [
+            "ぶ",
+            "た",
+            "に",
+            "く"
+        ],
+        "translation": "thịt heo, thịt lợn",
+        "kanji": "豚肉"
+    },
+    {
+        "kana": [
+            "と",
+            "り",
+            "に",
+            "く"
+        ],
+        "translation": "thịt gà",
+        "kanji": "とり肉"
+    },
+    {
+        "kana": [
+            "ぎゅ",
+            "う",
+            "に",
+            "く"
+        ],
+        "translation": "thịt bò",
+        "kanji": "牛肉"
+    },
+    {
+        "kana": [
+            "い",
+            "け",
+            "ば",
+            "な"
+        ],
+        "translation": "Nghệ thuật cắm hoa (～をします：cắm hoa)",
+        "kanji": "生け花"
+    },
+    {
+        "kana": [
+            "も",
+            "み",
+            "じ"
+        ],
+        "translation": "lá đỏ",
+        "kanji": "紅葉"
+    },
+    {
+        "kana": [
+            "は",
+            "じ",
+            "め",
+            "て"
+        ],
+        "translation": "lần đầu tiên",
+        "kanji": "初めて"
+    },
+    {
+        "kana": [
+            "お",
+            "か",
+            "え",
+            "り",
+            "な",
+            "さ",
+            "い"
+        ],
+        "translation": "Anh/Chị đã về đấy à. (dùng để nói với ai đó mới về đến nhà)",
+        "kanji": "お帰りなさい"
+    },
+    {
+        "kana": [
+            "つ",
+            "か",
+            "れ",
+            "ま",
+            "し",
+            "た"
+        ],
+        "translation": "Tôi mệt rồi",
+        "kanji": "疲れました"
+    },
+    {
+        "kana": [
+            "ぎ",
+            "お",
+            "ん",
+            "ま",
+            "つ",
+            "り"
+        ],
+        "translation": "Lễ hội Gi-ôn (lễ hội nổi tiếng nhất ở Kyoto)",
+        "kanji": "祗園祭"
+    },
+    {
+        "kana": [
+            "あ",
+            "そ",
+            "び",
+            "ま",
+            "す"
+        ],
+        "translation": "chơi",
+        "kanji": "遊びます"
+    },
+    {
+        "kana": [
+            "お",
+            "よ",
+            "ぎ",
+            "ま",
+            "す"
+        ],
+        "translation": "bơi",
+        "kanji": "泳ぎます"
+    },
+    {
+        "kana": [
+            "む",
+            "か",
+            "え",
+            "ま",
+            "す"
+        ],
+        "translation": "đón",
+        "kanji": "迎えます"
+    },
+    {
+        "kana": [
+            "つ",
+            "か",
+            "れ",
+            "ま",
+            "す"
+        ],
+        "translation": "mệt",
+        "kanji": "疲れます"
+    },
+    {
+        "kana": [
+            "け",
+            "っこ",
+            "ん",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "kết hôn, lập gia đình, cưới",
+        "kanji": "結婚します"
+    },
+    {
+        "kana": [
+            "か",
+            "い",
+            "も",
+            "の",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "mua hàng",
+        "kanji": "買い物します"
+    },
+    {
+        "kana": [
+            "しょ",
+            "く",
+            "じ",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "ăn cơm",
+        "kanji": "食事します"
+    },
+    {
+        "kana": [
+            "さ",
+            "ん",
+            "ぽ",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "đi dạo",
+        "kanji": "散歩します"
+    },
+    {
+        "kana": [
+            "た",
+            "い",
+            "へ",
+            "ん"
+        ],
+        "translation": "vất vả, khó khăn, khổ",
+        "kanji": "大変"
+    },
+    {
+        "kana": [
+            "ほ",
+            "し",
+            "い"
+        ],
+        "translation": "muốn có",
+        "kanji": "欲しい"
+    },
+    {
+        "kana": [
+            "ひ",
+            "ろ",
+            "い"
+        ],
+        "translation": "rộng",
+        "kanji": "広い"
+    },
+    {
+        "kana": [
+            "せ",
+            "ま",
+            "い"
+        ],
+        "translation": "chật, hẹp",
+        "kanji": "狭い"
+    },
+    {
+        "kana": [
+            "か",
+            "わ"
+        ],
+        "translation": "sông",
+        "kanji": "川"
+    },
+    {
+        "kana": [
+            "び",
+            "じゅ",
+            "つ"
+        ],
+        "translation": "mỹ thuật",
+        "kanji": "美術"
+    },
+    {
+        "kana": [
+            "つ",
+            "り"
+        ],
+        "translation": "việc câu cá (~をします：câu cá)",
+        "kanji": "釣り"
+    },
+    {
+        "kana": [
+            "しゅ",
+            "う",
+            "ま",
+            "つ"
+        ],
+        "translation": "cuối tuần",
+        "kanji": "週末"
+    },
+    {
+        "kana": [
+            "お",
+            "しょ",
+            "う",
+            "が",
+            "つ"
+        ],
+        "translation": "Tết",
+        "kanji": "[お]正月"
+    },
+    {
+        "kana": [
+            "な",
+            "に",
+            "か"
+        ],
+        "translation": "cái gì đó",
+        "kanji": "何か"
+    },
+    {
+        "kana": [
+            "ご",
+            "ちゅ",
+            "う",
+            "も",
+            "ん",
+            "は"
+        ],
+        "translation": "Anh/Chị dùng món gì ạ",
+        "kanji": "ご注文は？"
+    },
+    {
+        "kana": [
+            "て",
+            "い",
+            "しょ",
+            "く"
+        ],
+        "translation": "cơm suất, cơm phần",
+        "kanji": "定食"
+    },
+    {
+        "kana": [
+            "ぎゅ",
+            "う",
+            "ど",
+            "ん"
+        ],
+        "translation": "món cơm thịt bò",
+        "kanji": "牛どん"
+    },
+    {
+        "kana": [
+            "しょ",
+            "う",
+            "しょ",
+            "う",
+            "お",
+            "ま",
+            "ち",
+            "く",
+            "だ",
+            "さ",
+            "い"
+        ],
+        "translation": "Xin anh/chị vui lòng đợi [một chút].",
+        "kanji": "[しょうしょう]お待ちください"
+    },
+    {
+        "kana": [
+            "べ",
+            "つ",
+            "べ",
+            "つ",
+            "に"
+        ],
+        "translation": "riêng ra/ để riêng",
+        "kanji": "別々に"
+    },
+    {
+        "kana": [
+            "け",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "tắt (điện, máy điều hòa)",
+        "kanji": "消します"
+    },
+    {
+        "kana": [
+            "あ",
+            "け",
+            "ま",
+            "す"
+        ],
+        "translation": "mở (cửa, cửa sổ)",
+        "kanji": "開けます"
+    },
+    {
+        "kana": [
+            "し",
+            "め",
+            "ま",
+            "す"
+        ],
+        "translation": "đóng (cửa, cửa sổ)",
+        "kanji": "閉めます"
+    },
+    {
+        "kana": [
+            "い",
+            "そ",
+            "ぎ",
+            "ま",
+            "す"
+        ],
+        "translation": "vội, gấp",
+        "kanji": "急ぎます"
+    },
+    {
+        "kana": [
+            "ま",
+            "ち",
+            "ま",
+            "す"
+        ],
+        "translation": "đợi, chờ",
+        "kanji": "待ちます"
+    },
+    {
+        "kana": [
+            "も",
+            "ち",
+            "ま",
+            "す"
+        ],
+        "translation": "mang, cầm",
+        "kanji": "持ちます"
+    },
+    {
+        "kana": [
+            "と",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "lấy (muối)",
+        "kanji": "取ります"
+    },
+    {
+        "kana": [
+            "て",
+            "つ",
+            "だ",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "giúp (làm việc)",
+        "kanji": "手伝います"
+    },
+    {
+        "kana": [
+            "よ",
+            "び",
+            "ま",
+            "す"
+        ],
+        "translation": "gọi (taxi, tên)",
+        "kanji": "呼びます"
+    },
+    {
+        "kana": [
+            "は",
+            "な",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "nói, nói chuyện",
+        "kanji": "話します"
+    },
+    {
+        "kana": [
+            "つ",
+            "か",
+            "い",
+            "ま",
+            "す"
+        ],
+        "translation": "dùng, sử dụng",
+        "kanji": "使います"
+    },
+    {
+        "kana": [
+            "と",
+            "め",
+            "ま",
+            "す"
+        ],
+        "translation": "dừng, đỗ",
+        "kanji": "止めます"
+    },
+    {
+        "kana": [
+            "み",
+            "せ",
+            "ま",
+            "す"
+        ],
+        "translation": "cho xem, trình",
+        "kanji": "見せます"
+    },
+    {
+        "kana": [
+            "お",
+            "し",
+            "え",
+            "ま",
+            "す"
+        ],
+        "translation": "nói, cho biết",
+        "kanji": "教えます"
+    },
+    {
+        "kana": [
+            "す",
+            "わ",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "ngồi",
+        "kanji": "座ります"
+    },
+    {
+        "kana": [
+            "た",
+            "ち",
+            "ま",
+            "す"
+        ],
+        "translation": "đứng",
+        "kanji": "立ちます"
+    },
+    {
+        "kana": [
+            "は",
+            "い",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "vào ",
+        "kanji": "入ります"
+    },
+    {
+        "kana": [
+            "で",
+            "ま",
+            "す"
+        ],
+        "translation": "ra, ra khỏi",
+        "kanji": "出ます"
+    },
+    {
+        "kana": [
+            "ふ",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "rơi (mưa)",
+        "kanji": "降ります"
+    },
+    {
+        "kana": [
+            "で",
+            "ん",
+            "き"
+        ],
+        "translation": "điện, đèn điện",
+        "kanji": "電気"
+    },
+    {
+        "kana": [
+            "な",
+            "ま",
+            "え"
+        ],
+        "translation": "tên",
+        "kanji": "名前"
+    },
+    {
+        "kana": [
+            "じゅ",
+            "う",
+            "しょ"
+        ],
+        "translation": "địa chỉ",
+        "kanji": "住所"
+    },
+    {
+        "kana": [
+            "ち",
+            "ず"
+        ],
+        "translation": "bản đồ",
+        "kanji": "地図"
+    },
+    {
+        "kana": [
+            "し",
+            "お"
+        ],
+        "translation": "muối",
+        "kanji": "塩"
+    },
+    {
+        "kana": [
+            "さ",
+            "と",
+            "う"
+        ],
+        "translation": "đường",
+        "kanji": "砂糖"
+    },
+    {
+        "kana": [
+            "も",
+            "ん",
+            "だ",
+            "い"
+        ],
+        "translation": "câu hỏi, vấn đề",
+        "kanji": "問題"
+    },
+    {
+        "kana": [
+            "こ",
+            "た",
+            "え"
+        ],
+        "translation": "câu trả lời",
+        "kanji": "答え"
+    },
+    {
+        "kana": [
+            "よ",
+            "み",
+            "か",
+            "た"
+        ],
+        "translation": "cách đọc",
+        "kanji": "読み方"
+    },
+    {
+        "kana": [
+            "か",
+            "た"
+        ],
+        "translation": "cách ~",
+        "kanji": "～方"
+    },
+    {
+        "kana": [
+            "も",
+            "う",
+            "す",
+            "こ",
+            "し"
+        ],
+        "translation": "thêm một chút nữa thôi",
+        "kanji": "もう少し"
+    },
+    {
+        "kana": [
+            "し",
+            "ん",
+            "ご",
+            "う",
+            "を",
+            "み",
+            "ぎ",
+            "へ",
+            "ま",
+            "が",
+            "って",
+            "く",
+            "だ",
+            "さ",
+            "い"
+        ],
+        "translation": "Anh/ Chị rẽ phải ở chổ đèn tín hiệu.",
+        "kanji": "信号を右へ曲がってください"
+    },
+    {
+        "kana": [
+            "こ",
+            "れ",
+            "で",
+            "お",
+            "ね",
+            "が",
+            "い",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "Gởi anh tiền này.",
+        "kanji": "これでお願いします"
+    },
+    {
+        "kana": [
+            "お",
+            "つ",
+            "り"
+        ],
+        "translation": "tiền lẻ",
+        "kanji": "お釣り"
+    },
+    {
+        "kana": [
+            "み",
+            "ど",
+            "り",
+            "ちょ",
+            "う"
+        ],
+        "translation": "tên một thành phố (giả định)",
+        "kanji": "みどり町"
+    },
+    {
+        "kana": [
+            "お",
+            "き",
+            "ま",
+            "す"
+        ],
+        "translation": "đặt, để",
+        "kanji": "置きます"
+    },
+    {
+        "kana": [
+            "つ",
+            "く",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "làm, chế tạo, sản xuất",
+        "kanji": "作ります, 造ります"
+    },
+    {
+        "kana": [
+            "う",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "bán",
+        "kanji": "売ります"
+    },
+    {
+        "kana": [
+            "し",
+            "り",
+            "ま",
+            "す"
+        ],
+        "translation": "biết",
+        "kanji": "知ります"
+    },
+    {
+        "kana": [
+            "す",
+            "み",
+            "ま",
+            "す"
+        ],
+        "translation": "sống, ở",
+        "kanji": "住みます"
+    },
+    {
+        "kana": [
+            "け",
+            "ん",
+            "きゅ",
+            "う",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "nghiên cứu",
+        "kanji": "研究します"
+    },
+    {
+        "kana": [
+            "し",
+            "りょ",
+            "う"
+        ],
+        "translation": "tài liệu, tư liệu",
+        "kanji": "資料"
+    },
+    {
+        "kana": [
+            "じ",
+            "こ",
+            "く",
+            "ひょ",
+            "う"
+        ],
+        "translation": "bảng giờ tàu chạy",
+        "kanji": "時刻表"
+    },
+    {
+        "kana": [
+            "ふ",
+            "く"
+        ],
+        "translation": "quần áo",
+        "kanji": "服"
+    },
+    {
+        "kana": [
+            "せ",
+            "い",
+            "ひ",
+            "ん"
+        ],
+        "translation": "sản phẩm",
+        "kanji": "製品"
+    },
+    {
+        "kana": [
+            "で",
+            "ん",
+            "し",
+            "じ",
+            "しょ"
+        ],
+        "translation": "kim từ điển",
+        "kanji": "電子辞書"
+    },
+    {
+        "kana": [
+            "け",
+            "い",
+            "ざ",
+            "い"
+        ],
+        "translation": "kinh tế",
+        "kanji": "経済"
+    },
+    {
+        "kana": [
+            "し",
+            "や",
+            "く",
+            "しょ"
+        ],
+        "translation": "tòa thị chính",
+        "kanji": "市役所"
+    },
+    {
+        "kana": [
+            "こ",
+            "う",
+            "こ",
+            "う"
+        ],
+        "translation": "trường trung học phổ thông, trường cấp 3",
+        "kanji": "高校"
+    },
+    {
+        "kana": [
+            "は",
+            "い",
+            "しゃ"
+        ],
+        "translation": "nha sĩ",
+        "kanji": "歯医者"
+    },
+    {
+        "kana": [
+            "ど",
+            "く",
+            "し",
+            "ん"
+        ],
+        "translation": "độc thân",
+        "kanji": "独身"
+    },
+    {
+        "kana": [
+            "み",
+            "な",
+            "さ",
+            "ん"
+        ],
+        "translation": "các anh chị, các ông bà, các bạn, quý vị",
+        "kanji": "皆さん"
+    },
+    {
+        "kana": [
+            "お",
+            "も",
+            "い",
+            "だ",
+            "し",
+            "ま",
+            "す"
+        ],
+        "translation": "nhớ lại, hồi tưởng",
+        "kanji": "思い出します"
+    },
+    {
+        "kana": [
+            "に",
+            "っぽ",
+            "ん",
+            "ば",
+            "し"
+        ],
+        "translation": "tên một khu phố buôn bán ở Osaka",
+        "kanji": "日本橋"
+    }
+]
