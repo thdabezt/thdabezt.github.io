@@ -27,12 +27,29 @@
 <script lang="ts" setup>
 import { UseDark } from '@vueuse/components';
 import { useStore } from '@/stores/base';
-
+import { onMounted, onBeforeUnmount } from 'vue';
 const store = useStore();
 
 const toggleKana = () => {
   store.showKana = !store.showKana; // Toggle the value in the store
   console.log("showKana:", store.showKana); // Check the value
-  
+  // Reset input value when kana is toggled
+  if (store.words === 'kanji') {
+    store.count = 0; 
+  }
 };
+const handleRightShiftToggle = (event: KeyboardEvent) => {
+  if (event.code === 'ShiftRight') { // Check if Right Shift key is pressed
+    toggleKana(); // Toggle kana when Right Shift is pressed
+  }
+};
+
+onMounted(() => {
+  window.addEventListener('keydown', handleRightShiftToggle); // Add keydown event listener
+});
+
+onBeforeUnmount(() => {
+  window.removeEventListener('keydown', handleRightShiftToggle); // Clean up event listener
+});
 </script>
+
