@@ -32,12 +32,16 @@
               value: 'katakana'
             },
             {
-              title: 'Kotoba', // New tab 1
-              value: 'test' 
+              title: 'Kotoba 1-15', // New tab 1
+              value: 'ktb1-15' 
             },
             {
-              title: 'Kanji Only', // New tab 2
-              value: 'kanji' 
+              title: 'Kanji 1-10', // New tab 1
+              value: 'kj1-10' 
+            },
+            {
+              title: 'Kanji from kotoba 1-15', // New tab 2
+              value: 'kkj1-15' 
             }
           ]"
           v-model="store.words"

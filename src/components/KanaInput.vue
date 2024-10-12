@@ -1,12 +1,13 @@
 <template>
-  <form
+  <form 
     ref="formEl"
     class="relative w-full mx-auto border rounded-full shadow-lg transition-all bg-white border-gray-200 dark:bg-gray-900 dark:border-gray-800"
     :class="formFocused || input.length ? 'max-w-xl' : 'max-w-[12rem]'"
     @submit.prevent="onSubmit"
   >
-    <div v-if="formFocused || input.length" class="absolute left-0 top-0 bottom-0">
+    <div v-if="formFocused || input.length" class="absolute left-0 top-0 bottom-0   flex items-center">
       <Counter class="text-gray-500 text-sm h-full pl-5" :count="store.count" />
+      <Counter class="text-red-500 text-sm h-full pl-2" :count="store.skippedCount" /> 
     </div>
 
     <input
@@ -19,6 +20,7 @@
       spellcheck="false"
       placeholder="type rōmaji here ..."
       v-model="input"
+      
     />
 
     <Transition name="tr-swipe-right">
@@ -60,6 +62,7 @@ const props = defineProps<{
 const emit = defineEmits<{
   (e: 'submit'): void;
   (e: 'update:value', value: string): void;
+
 }>();
 
 const store = useStore();
@@ -76,6 +79,7 @@ const { focused: inputFocused } = useFocus(inputEl, { initialValue: true });
 
 const onSubmit = () => {
   emit('submit');
-  inputFocused.value = true;
+  inputFocused.value = true; 
 };
+
 </script>

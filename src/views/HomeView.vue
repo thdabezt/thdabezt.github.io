@@ -10,8 +10,10 @@
         :show-tip="store.count === 0 && isMatch"
         v-model:value="input"
         @submit="onSubmit"
+        @next="handleNext"
       />
     </div>
+    
     <Teleport to="body">
       <OverlayKana v-if="store.modal === 'kana'" />
       <OverlaySettings v-else-if="store.modal === 'settings'" />
@@ -26,8 +28,9 @@ import { computed, ref, watch } from 'vue';
 import type { KanaEntry, KanaEntryWithRoumaji } from '@/types';
 import hiraganaDictionary from '@/assets/data/hiragana.json';
 import katakanaDictionary from '@/assets/data/katakana.json';
-import testDictionary from '@/assets/data/test.json'; //new
-import kanjiDictionary from '@/assets/data/kanji.json'; //new
+import testDictionary from '@/assets/data/1-15.json'; //new
+import kanjiDictionary from '@/assets/data/kkanji1-15.json'; //new
+import onetotenkanji from '@/assets/data/1-10kanji.json'; //new
 import { katakanaMap } from '@/util/katakana-map';
 import { hiraganaMap } from '@/util/hiragana-map';
 import { mapKana } from '@/util/kana';
@@ -44,13 +47,16 @@ const dictionary = computed<KanaEntry[]>(() => {
   if (store.words === 'katakana') {
     return katakanaDictionary;
   }
-  if (store.words === 'test') {
+  if (store.words === 'ktb1-15') {
          return testDictionary;
   }
-  if (store.words === 'kanji') {
+  if (store.words === 'kkj1-15') {
          return kanjiDictionary;
   }
-  return [...hiraganaDictionary, ...katakanaDictionary, ...testDictionary, ...kanjiDictionary];
+  if (store.words === 'kj1-10') {
+         return onetotenkanji;
+  }
+  return [...hiraganaDictionary, ...katakanaDictionary, ...testDictionary, ...kanjiDictionary, ...onetotenkanji];
 });
 
 const allMaps = [...hiraganaMap, ...katakanaMap];
@@ -72,10 +78,17 @@ const isMatch = computed(() => {
 });
 
 const onSubmit = () => {
-  if (isMatch.value) {
+  if (input.value.trim() === '') {
+    store.skippedCount += 1; // Increment skippedCount if input is empty
+    handleNext(); 
+  } else if (isMatch.value) {
     store.count += 1;
-    index.value = randomInt(0, dictionary.value.length - 1);
+    handleNext(); // Call handleNext for correct answer
   }
+};
+
+const handleNext = () => {
+  index.value = randomInt(0, dictionary.value.length - 1); 
 };
 
 watch(
