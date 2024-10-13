@@ -21,16 +21,9 @@
   </div>
 </template>
 
-
-
 <script lang="ts" setup>
 import { computed, ref, watch } from 'vue';
 import type { KanaEntry, KanaEntryWithRoumaji } from '@/types';
-import hiraganaDictionary from '@/assets/data/hiragana.json';
-import katakanaDictionary from '@/assets/data/katakana.json';
-import testDictionary from '@/assets/data/1-15.json'; //new
-import kanjiDictionary from '@/assets/data/kkanji1-15.json'; //new
-import onetotenkanji from '@/assets/data/1-10kanji.json'; //new
 import { katakanaMap } from '@/util/katakana-map';
 import { hiraganaMap } from '@/util/hiragana-map';
 import { mapKana } from '@/util/kana';
@@ -38,25 +31,59 @@ import { useStore } from '@/stores/base';
 
 const store = useStore();
 
-const randomInt = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;
+const randomInt = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;   
+
+
+const importContext = import.meta.glob('@/assets/data/*.json', { eager: true });
+
+// Create an interface to define the type of the importContext object
+interface ImportContext {
+  [key: string]: { default: KanaEntry[] };
+}
+
+// Now, type assert importContext to be of type ImportContext
+const dictionaries: Record<string, KanaEntry[]> = {};
+for (const path in importContext) {
+  const fileName = path.match(/\/([^/]+)\.json$/)?.[1];
+  if (fileName) {
+    // Type assertion here
+    dictionaries[fileName] = (importContext as ImportContext)[path].default; 
+  }
+}
 
 const dictionary = computed<KanaEntry[]>(() => {
+  let selectedDictionary: KanaEntry[] | undefined; // Declare selectedDictionary
+
   if (store.words === 'hiragana') {
-    return hiraganaDictionary;
+    return dictionaries.hiragana; 
   }
   if (store.words === 'katakana') {
-    return katakanaDictionary;
+    return dictionaries.katakana; 
   }
-  if (store.words === 'ktb1-15') {
-         return testDictionary;
+  if (store.words === 'ktb115') {
+    return dictionaries.ktb115;  
   }
-  if (store.words === 'kkj1-15') {
-         return kanjiDictionary;
+  if (store.words === 'kkj115') {
+    return dictionaries.kkj115; 
   }
-  if (store.words === 'kj1-10') {
-         return onetotenkanji;
+  if (store.words === 'kj110') {
+    return dictionaries['kj110']; 
+  } else if (store.words === 'custom') {
+    const selectedFiles = store.selectedFiles;
+    selectedDictionary = selectedFiles.map(file => dictionaries[file.replace('.json', '')]).flat();
+  } else { 
+    selectedDictionary = Object.values(dictionaries).flat();
   }
-  return [...hiraganaDictionary, ...katakanaDictionary, ...testDictionary, ...kanjiDictionary, ...onetotenkanji];
+
+  // Log the selected dictionary name or filenames
+  if (selectedDictionary) {
+    const dictionaryName = store.words === 'custom'
+      ? store.selectedFiles.join(', ') 
+      : store.words;
+    console.log("Using dictionary:", dictionaryName);
+  }
+
+  return selectedDictionary || []; 
 });
 
 const allMaps = [...hiraganaMap, ...katakanaMap];
@@ -79,11 +106,11 @@ const isMatch = computed(() => {
 
 const onSubmit = () => {
   if (input.value.trim() === '') {
-    store.skippedCount += 1; // Increment skippedCount if input is empty
+    store.skippedCount += 1; 
     handleNext(); 
   } else if (isMatch.value) {
     store.count += 1;
-    handleNext(); // Call handleNext for correct answer
+    handleNext(); 
   }
 };
 
