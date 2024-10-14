@@ -30,60 +30,54 @@ import { mapKana } from '@/util/kana';
 import { useStore } from '@/stores/base';
 
 const store = useStore();
-
-const randomInt = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;   
-
+const randomInt = (min: number, max: number) => Math.floor(Math.random() * (max - min + 1)) + min;
 
 const importContext = import.meta.glob('@/assets/data/*.json', { eager: true });
 
-// Create an interface to define the type of the importContext object
 interface ImportContext {
   [key: string]: { default: KanaEntry[] };
 }
 
-// Now, type assert importContext to be of type ImportContext
 const dictionaries: Record<string, KanaEntry[]> = {};
 for (const path in importContext) {
   const fileName = path.match(/\/([^/]+)\.json$/)?.[1];
   if (fileName) {
-    // Type assertion here
-    dictionaries[fileName] = (importContext as ImportContext)[path].default; 
+    dictionaries[fileName] = (importContext as ImportContext)[path].default;
   }
 }
 
 const dictionary = computed<KanaEntry[]>(() => {
-  let selectedDictionary: KanaEntry[] | undefined; // Declare selectedDictionary
+  let selectedDictionary: KanaEntry[] | undefined;
 
   if (store.words === 'hiragana') {
-    return dictionaries.hiragana; 
+    return dictionaries.hiragana;
   }
   if (store.words === 'katakana') {
-    return dictionaries.katakana; 
+    return dictionaries.katakana;
   }
   if (store.words === 'ktb115') {
-    return dictionaries.ktb115;  
+    return dictionaries.ktb115;
   }
   if (store.words === 'kkj115') {
-    return dictionaries.kkj115; 
+    return dictionaries.kkj115;
   }
   if (store.words === 'kj110') {
-    return dictionaries['kj110']; 
+    return dictionaries['kj110'];
   } else if (store.words === 'custom') {
     const selectedFiles = store.selectedFiles;
     selectedDictionary = selectedFiles.map(file => dictionaries[file.replace('.json', '')]).flat();
-  } else { 
+  } else {
     selectedDictionary = Object.values(dictionaries).flat();
   }
 
-  // Log the selected dictionary name or filenames
   if (selectedDictionary) {
     const dictionaryName = store.words === 'custom'
-      ? store.selectedFiles.join(', ') 
+      ? store.selectedFiles.join(', ')
       : store.words;
     console.log("Using dictionary:", dictionaryName);
   }
 
-  return selectedDictionary || []; 
+  return selectedDictionary || [];
 });
 
 const allMaps = [...hiraganaMap, ...katakanaMap];
@@ -104,18 +98,30 @@ const isMatch = computed(() => {
   return input.value.toLowerCase().replace(/ /g, '') === match;
 });
 
+let pressCount = 0;
+let timer: ReturnType<typeof setTimeout> | null = null;
+
 const onSubmit = () => {
   if (input.value.trim() === '') {
-    store.skippedCount += 1; 
-    handleNext(); 
+    pressCount++;
+    if (pressCount === 1) {
+      timer = setTimeout(() => {
+        pressCount = 0; // Reset press count after 0.5 seconds
+      }, 500);
+    } else if (pressCount === 2) {
+      store.skippedCount += 1;
+      handleNext();
+      pressCount = 0; // Reset after skip
+      if (timer) clearTimeout(timer); // Clear timer after second press
+    }
   } else if (isMatch.value) {
     store.count += 1;
-    handleNext(); 
+    handleNext();
   }
 };
 
 const handleNext = () => {
-  index.value = randomInt(0, dictionary.value.length - 1); 
+  index.value = randomInt(0, dictionary.value.length - 1);
 };
 
 watch(
