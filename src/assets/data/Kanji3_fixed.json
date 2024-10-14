@@ -17,7 +17,7 @@
   {"kana": ["ちゅ", "う", "お", "う", "ぐ", "ち"], "translation": "lối vào trung tâm", "kanji": "中央口"},
   {"kana": ["ちゅ", "う", "ご", "く"], "translation": "đồ sứ", "kanji": "中国"},
   {"kana": ["い", "ち", "ね", "ん", "じゅ", "う"], "translation": "quanh năm", "kanji": "一年中"},
-  {"kana": ["ちゅ", "う", "が", "っ", "こ", "う"], "translation": "trung học cơ sở", "kanji": "中学校"},
+  {"kana": ["ちゅ", "う", "が", "っこ", "う"], "translation": "trung học cơ sở", "kanji": "中学校"},
   {"kana": ["せ", "か", "い", "じゅ", "う"], "translation": "trên thế giới", "kanji": "世界中"},
   {"kana": ["せ", "な", "か"], "translation": "trở lại", "kanji": "背中"},
   {"kana": ["ちゅ", "う", "し"], "translation": "dừng lại", "kanji": "中止"},
@@ -110,7 +110,7 @@
   {"kana": ["き", "た", "ぐ", "ち"], "translation": "bắc tuyển sinh", "kanji": "北口"},
   {"kana": ["き", "た", "ひ", "が", "し"], "translation": "đông bắc", "kanji": "北東"},
   {"kana": ["と", "う", "ほ", "く", "ち", "ほ", "う"], "translation": "quận tohoku", "kanji": "東北地方"},
-  {"kana": ["ほ", "っ", "か", "い", "ど", "う"], "translation": "hokkaido", "kanji": "北海道"},
+  {"kana": ["ほ", "っか", "い", "ど", "う"], "translation": "hokkaido", "kanji": "北海道"},
   {"kana": ["な", "ん", "ぼ", "く"], "translation": "nam và bắc", "kanji": "南北"},
-  {"kana": ["ほ", "っ", "きょ", "く"], "translation": "bắc cực", "kanji": "北極"}
+  {"kana": ["ほ", "っきょ", "く"], "translation": "bắc cực", "kanji": "北極"}
 ]
